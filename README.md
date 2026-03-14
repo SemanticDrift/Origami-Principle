@@ -88,7 +88,7 @@ This connects directly to the Law of Admissibility (R = 4) and the 1/6 torsion c
 
 ## Transcendental Drift
 
-The 0.05% discrepancy between π and 22/7 is not random noise. It is the signature of transcendental drift. Repeated application amplifies error:
+The 0.04% discrepancy between π and 22/7 is not random noise. It is the signature of transcendental drift. Repeated application amplifies error:
 
 ```
 1 iteration:    0.04%
