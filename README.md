@@ -66,7 +66,7 @@ Diameter measured:        D = 21 cm
 Circumference (string):   C ≈ 66 cm
 
 Using 22/7:   C = (22/7) × 21 = 66 cm        exact match
-Using π:      C = π × 21      = 65.97 cm     difference: 0.03 cm (0.05%)
+Using π:      C = π × 21      = 65.97 cm     difference: 0.03 cm (0.04%)
 ```
 
 Both values fall within physical measurement error. The distinction is structural: 22/7 is exact within rational arithmetic. π requires infinite precision.
@@ -91,9 +91,9 @@ This connects directly to the Law of Admissibility (R = 4) and the 1/6 torsion c
 The 0.05% discrepancy between π and 22/7 is not random noise. It is the signature of transcendental drift. Repeated application amplifies error:
 
 ```
-1 iteration:    0.05%
-10 iterations:  0.5%
-100 iterations: 5%
+1 iteration:    0.04%
+10 iterations:  0.4%
+100 iterations: 4%
 ```
 
 Using 22/7 eliminates drift at the source.
